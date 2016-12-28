@@ -1,0 +1,55 @@
+*{
+margin-top: 0px;
+padding: 0px;
+
+}
+
+body{
+
+	background-color: #334d66;
+}
+
+#main {
+	background-color: #fff;
+	border: 2px solid black;
+	border-radius:4px;
+	width: 65%;
+	margin:50px auto;
+	text-align: center;
+}
+
+#header{
+	
+	background-color:#333366;
+	color:#fff;
+	text-align: center;
+	 margin:5px;
+	 border :1px solid black;
+	 border-radius:5px;	
+
+}
+
+
+#main_section div {
+	height:70px;
+	display: inline-block;
+	background-color: blue;
+	margin:5px;
+    border :8px solid transparent;
+    border-right-color: gold;
+    border-radius: 50%;
+    padding: 15px;
+    text-align:center;
+    height:100px;
+    width: 14%;
+    
+}
+
+#main_section  div h1{
+
+	font: bold 14px Tahoma;
+	color: white;
+	text-align: center;
+
+}
+
